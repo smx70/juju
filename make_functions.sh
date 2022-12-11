@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euf
 
+# SINI TEST
+
 # Path variables
 BASE_DIR=$(realpath $(dirname "$0"))
 PROJECT_DIR=${PROJECT_DIR:-${BASE_DIR}}
